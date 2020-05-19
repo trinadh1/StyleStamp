@@ -1,5 +1,5 @@
 # StyleStamp
 
-style stamp project is an e ommerce application that allows shop keeper to manage categories of product and products via admin portal
+style stamp project is an e commerce application that allows shop keeper to manage categories of product and products via admin portal
 
 Technologies used: Codeigniter, PHP, MySQL, REST API
